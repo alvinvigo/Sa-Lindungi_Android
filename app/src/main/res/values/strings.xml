@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Sa-Lindungi</string>
+    <string name="sa_lindungi">Sa-Lindungi</string>
+    <string name="kenali_satw">Kenali Satwa</string>
+    <string name="home_title">Hai kawan Pelindung Satwa!</string>
+    <string name="home_title_desc">Sudah donasi hari ini?</string>
+
+    <string name="donasi">Donasi</string>
+    <string name="donasi_comp">Donasi Company</string>
+
+    <string name="image_onboarding">Image Onboarding</string>
+    <string name="title_onboarding1">Selamat Datang di Sa-Lindungi!</string>
+    <string name="desc_onboarding1">Sa-Lindungi adalah aplikasi berbasis database yang dapat memberi pengetahuan tentang hewan yang dilindungi!</string>
+    <string name="title_onboarding2">Nyalakan Kamera Kamu!</string>
+    <string name="desc_onboarding2">Dengan Sa-Lindungi, kamu cukup menyalakan atau mengakses galeri kamu untuk dideteksi. Kirimkan foto binatang yang ingin kamu ketahui, ya!</string>
+    <string name="title_onboarding3">Memberikan Data yang Akurat</string>
+    <string name="desc_onboarding3">Aplikasi Sa-Lindungi dilengkapi dengan data yang tepat serta akurat untuk mendeteksi informasi tentang hewan yang dilindungi di Indonesia.</string>
+
+    <string name="pilih_sumbe">Pilih sumber gambarnya dulu yuk!</string>
+    <string name="sudah_yakin">Sudah yakin dengan foto kamu?</string>
+    <string name="next">lanjut</string>
+    <string name="retry">ulang</string>
+    <string name="nama_satwa">Komodo</string>
+    <string name="nama_latin_satwa"><i>(Varanus Komodoensis)</i></string>
+    <string name="lokasi_satwa">Satwa ini berlokasi di Pulau Komodo, Flores</string>
+    <string name="populasi_satwa">Populasinya berjumlah 3458</string>
+    <string name="funfact_satwa">Funfact! Komodo dipercayai adalah naga purba</string>
+    <string name="home">home</string>
+
+    <string name="nama_donasi">Donasi</string>
+    <string name="donasi_desc">Deskripsi dari organisasi</string>
+    <string name="donasi_lokasi">Lokasi dari organisasi</string>
+    <string name="donasi_rekening">Nomor rekening dari organisasi</string>
+    <string name="donasi_website">Website dari organisasi</string>
+    <string name="donasi_kontak">Kontak dari organisasi</string>
+
+    <string name="email">Email</string>
+    <string name="nominal">Nominal</string>
+    <string name="bank">Bank</string>
+    <string name="title_transaction">Isi datanya dulu yuk!</string>
+    <string name="text_bank_available">Bank yang tersedia adalah BNI, BRI, dan BCA</string>
+    <string name="hint_et_email">Masukkan email anda</string>
+    <string name="hint_et_nominal">Masukkan nominal</string>
+    <string name="hint_et_bank">Masukkan nama bank yang tersedia</string>
+    <string name="checkout">checkout</string>
+
+    <string name="cek_status_donasi">Status Pembayaran</string>
+    <string name="cek_email_donasi">Masukkan alamat e-mail yang anda gunakan saat mendaftar donasi untuk cek status donasi anda!</string>
+    <string name="input_email_cek_donasi">E-mail</string>
+    <string name="submit">Submit</string>
+
+    <string name="title_id_pembayaran">Invoice</string>
+    <string name="id_pembayaran">1234567890</string>
+    <string name="title_email">Email</string>
+    <string name="email2">donasi@gmail.com</string>
+    <string name="title_nama_donasi">Nama Donasi</string>
+    <string name="nama_donasi2">KitaBisa x Dicoding</string>
+    <string name="title_nominal">Nominal Uang yang Dibayarkan</string>
+    <string name="nominal2">150000</string>
+    <string name="title_bank">Rekening Pembayaran</string>
+    <string name="bank2">BRI</string>
+    <string name="title_va_number">VA Number (Nomor Rekening Tujuan Pembayaran)</string>
+    <string name="va_number">1234567890</string>
+    <string name="title_time">Tanggal dan Waktu Transaksi</string>
+    <string name="time">10 Juni 2022</string>
+    <string name="title_expired">Batas Waktu Pembayaran</string>
+    <string name="expired">20 Juni 2022</string>
+    <string name="title_status">Status Pembayaran</string>
+    <string name="status">Settlement</string>
+
+    <string name="prediction">Prediksi</string>
+    <string name="website">Donasi Sekarang!</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="rekening">Rekening</string>
+    <string name="kontak">Kontak</string>
+    <string name="lokasi_empty">Data lokasi belum ada</string>
+    <string name="kontak_empty">Data kontak belum ada</string>
+    <string name="rekening_empty">Data rekening belum ada</string>
+    <string name="nama_scientific">Nama Scientific</string>
+    <string name="lokasi_satwa_desc">Lokasi Satwa</string>
+    <string name="populasi_satwa_title">Populasi Satwa</string>
+    <string name="fakta_menarik">Fakta Menarik</string>
+    <string name="finish">selesai</string>
+    <string name="list_transaki">List Transaksi</string>
+    <string name="choose_bank">Pilih bank</string>
+</resources>
